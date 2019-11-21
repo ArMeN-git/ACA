@@ -1,0 +1,7 @@
+D:\Armen\ACA_C#_FILES\Homeworks\Complex_Numbers\Complex_Numbers\bin\Debug\Complex_Numbers.exe.config
+D:\Armen\ACA_C#_FILES\Homeworks\Complex_Numbers\Complex_Numbers\bin\Debug\Complex_Numbers.exe
+D:\Armen\ACA_C#_FILES\Homeworks\Complex_Numbers\Complex_Numbers\bin\Debug\Complex_Numbers.pdb
+D:\Armen\ACA_C#_FILES\Homeworks\Complex_Numbers\Complex_Numbers\obj\Debug\Complex_Numbers.csprojAssemblyReference.cache
+D:\Armen\ACA_C#_FILES\Homeworks\Complex_Numbers\Complex_Numbers\obj\Debug\Complex_Numbers.csproj.CoreCompileInputs.cache
+D:\Armen\ACA_C#_FILES\Homeworks\Complex_Numbers\Complex_Numbers\obj\Debug\Complex_Numbers.exe
+D:\Armen\ACA_C#_FILES\Homeworks\Complex_Numbers\Complex_Numbers\obj\Debug\Complex_Numbers.pdb
