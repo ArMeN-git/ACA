@@ -1,0 +1,7 @@
+D:\Armen\ACA_C#_FILES\Homeworks\Company\Company\bin\Debug\Company.exe.config
+D:\Armen\ACA_C#_FILES\Homeworks\Company\Company\bin\Debug\Company.exe
+D:\Armen\ACA_C#_FILES\Homeworks\Company\Company\bin\Debug\Company.pdb
+D:\Armen\ACA_C#_FILES\Homeworks\Company\Company\obj\Debug\Company.csprojAssemblyReference.cache
+D:\Armen\ACA_C#_FILES\Homeworks\Company\Company\obj\Debug\Company.csproj.CoreCompileInputs.cache
+D:\Armen\ACA_C#_FILES\Homeworks\Company\Company\obj\Debug\Company.exe
+D:\Armen\ACA_C#_FILES\Homeworks\Company\Company\obj\Debug\Company.pdb
