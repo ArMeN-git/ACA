@@ -10,29 +10,25 @@ namespace Airport
     {
         public string Name { get; set; }
         public string CountryCode { get; set; }
-        public string Size { get; set; }
-        public int NumOfSize { get; private set; }
-        public Airport(string name, string countryCode, string size)
+
+        public enum Sizes
+        {
+            Small,
+            Medium,
+            Large,
+            Mega,
+            SuperMega
+        }
+        public Sizes size;
+        public Airport(string name, string countryCode, Sizes size)
         {
             this.Name = name;
             this.CountryCode = countryCode;
-            this.Size = size;
-            if (size == "Small")
-                this.NumOfSize = 0;
-            else if (size == "Medium")
-                this.NumOfSize = 1;
-            else if (size == "Large")
-                this.NumOfSize = 2;
-            else if (size == "Mega")
-                this.NumOfSize = 3;
-            else if (size == "SuperMega")
-                this.NumOfSize = 4;
-            else
-                Console.WriteLine("Invalid Size");
+            this.size = size;
         }
         public override string ToString()
         {
-            return $"{Name}, {CountryCode}, {Size}";
+            return $"{Name}, {CountryCode}, {size}";
         }
     }
 }
