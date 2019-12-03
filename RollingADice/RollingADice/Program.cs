@@ -13,7 +13,7 @@ namespace RollingADice
             Die dice = new Die();
             dice.TwoFours += GetEventsInformation;
             dice.SumOfRoles += GetEventsInformation;
-            dice.Roll();
+            dice.Roll(50);
             Console.ReadKey();
         }
 

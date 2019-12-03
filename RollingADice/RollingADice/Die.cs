@@ -36,12 +36,12 @@ namespace RollingADice
             }
         }
 
-        public void Roll()
+        public void Roll(int rollcount)
         {
             int n = 0;
             int count = 0;
             int sum;
-            while (n < 50)
+            while (n < rollcount)
             {
                 sum = 0;
                 int number = r.Next(1, SideCount + 1);
