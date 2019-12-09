@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineAttendance", "OnlineAttendance\OnlineAttendance.csproj", "{76CCF9B6-CB1A-4C62-878A-AD6D3D220DD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76CCF9B6-CB1A-4C62-878A-AD6D3D220DD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76CCF9B6-CB1A-4C62-878A-AD6D3D220DD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76CCF9B6-CB1A-4C62-878A-AD6D3D220DD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76CCF9B6-CB1A-4C62-878A-AD6D3D220DD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AD166AF-EF52-4858-95D8-0F09B0F846F1}
+	EndGlobalSection
+EndGlobal
