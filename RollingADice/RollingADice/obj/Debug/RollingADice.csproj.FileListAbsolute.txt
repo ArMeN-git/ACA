@@ -1,0 +1,7 @@
+C:\Users\Armen\Desktop\ACA\RollingADice\RollingADice\bin\Debug\RollingADice.exe.config
+C:\Users\Armen\Desktop\ACA\RollingADice\RollingADice\bin\Debug\RollingADice.exe
+C:\Users\Armen\Desktop\ACA\RollingADice\RollingADice\bin\Debug\RollingADice.pdb
+C:\Users\Armen\Desktop\ACA\RollingADice\RollingADice\obj\Debug\RollingADice.csprojAssemblyReference.cache
+C:\Users\Armen\Desktop\ACA\RollingADice\RollingADice\obj\Debug\RollingADice.csproj.CoreCompileInputs.cache
+C:\Users\Armen\Desktop\ACA\RollingADice\RollingADice\obj\Debug\RollingADice.exe
+C:\Users\Armen\Desktop\ACA\RollingADice\RollingADice\obj\Debug\RollingADice.pdb

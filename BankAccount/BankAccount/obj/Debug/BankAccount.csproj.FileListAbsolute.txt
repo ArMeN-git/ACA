@@ -1,0 +1,7 @@
+D:\Armen\ACA_C#_FILES\Homeworks\BankAccount\BankAccount\bin\Debug\BankAccount.exe.config
+D:\Armen\ACA_C#_FILES\Homeworks\BankAccount\BankAccount\bin\Debug\BankAccount.exe
+D:\Armen\ACA_C#_FILES\Homeworks\BankAccount\BankAccount\bin\Debug\BankAccount.pdb
+D:\Armen\ACA_C#_FILES\Homeworks\BankAccount\BankAccount\obj\Debug\BankAccount.csprojAssemblyReference.cache
+D:\Armen\ACA_C#_FILES\Homeworks\BankAccount\BankAccount\obj\Debug\BankAccount.csproj.CoreCompileInputs.cache
+D:\Armen\ACA_C#_FILES\Homeworks\BankAccount\BankAccount\obj\Debug\BankAccount.exe
+D:\Armen\ACA_C#_FILES\Homeworks\BankAccount\BankAccount\obj\Debug\BankAccount.pdb
