@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSVReader_LINQ", "CSVReader_LINQ\CSVReader_LINQ.csproj", "{C2A1D046-D4CA-455A-ADEE-EED89F8DBDCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2A1D046-D4CA-455A-ADEE-EED89F8DBDCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2A1D046-D4CA-455A-ADEE-EED89F8DBDCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2A1D046-D4CA-455A-ADEE-EED89F8DBDCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2A1D046-D4CA-455A-ADEE-EED89F8DBDCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65EB151B-5BAB-44D7-8008-C467D3F1CB8E}
+	EndGlobalSection
+EndGlobal
