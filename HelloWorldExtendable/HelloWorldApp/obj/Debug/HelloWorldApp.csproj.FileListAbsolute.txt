@@ -1,0 +1,10 @@
+D:\Armen\ACA_C#_FILES\Homeworks\HelloWorldExtendable\HelloWorldApp\bin\Debug\HelloWorldApp.exe.config
+D:\Armen\ACA_C#_FILES\Homeworks\HelloWorldExtendable\HelloWorldApp\bin\Debug\HelloWorldApp.exe
+D:\Armen\ACA_C#_FILES\Homeworks\HelloWorldExtendable\HelloWorldApp\bin\Debug\HelloWorldApp.pdb
+D:\Armen\ACA_C#_FILES\Homeworks\HelloWorldExtendable\HelloWorldApp\obj\Debug\HelloWorldApp.csprojAssemblyReference.cache
+D:\Armen\ACA_C#_FILES\Homeworks\HelloWorldExtendable\HelloWorldApp\obj\Debug\HelloWorldApp.csproj.CoreCompileInputs.cache
+D:\Armen\ACA_C#_FILES\Homeworks\HelloWorldExtendable\HelloWorldApp\obj\Debug\HelloWorldApp.exe
+D:\Armen\ACA_C#_FILES\Homeworks\HelloWorldExtendable\HelloWorldApp\obj\Debug\HelloWorldApp.pdb
+D:\Armen\ACA_C#_FILES\Homeworks\HelloWorldExtendable\HelloWorldApp\bin\Debug\Plugin.dll
+D:\Armen\ACA_C#_FILES\Homeworks\HelloWorldExtendable\HelloWorldApp\bin\Debug\Plugin.pdb
+D:\Armen\ACA_C#_FILES\Homeworks\HelloWorldExtendable\HelloWorldApp\obj\Debug\HelloWorldApp.csproj.CopyComplete

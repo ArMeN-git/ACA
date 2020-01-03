@@ -1,0 +1,8 @@
+D:\Armen\ACA_C#_FILES\Homeworks\HelloWorldExtendable\Plugins-Libraries\Plugins-Libraries\Portuguese\bin\Debug\Portuguese.dll
+D:\Armen\ACA_C#_FILES\Homeworks\HelloWorldExtendable\Plugins-Libraries\Plugins-Libraries\Portuguese\bin\Debug\Portuguese.pdb
+D:\Armen\ACA_C#_FILES\Homeworks\HelloWorldExtendable\Plugins-Libraries\Plugins-Libraries\Portuguese\bin\Debug\Plugin.dll
+D:\Armen\ACA_C#_FILES\Homeworks\HelloWorldExtendable\Plugins-Libraries\Plugins-Libraries\Portuguese\bin\Debug\Plugin.pdb
+D:\Armen\ACA_C#_FILES\Homeworks\HelloWorldExtendable\Plugins-Libraries\Plugins-Libraries\Portuguese\obj\Debug\Portuguese.csproj.CoreCompileInputs.cache
+D:\Armen\ACA_C#_FILES\Homeworks\HelloWorldExtendable\Plugins-Libraries\Plugins-Libraries\Portuguese\obj\Debug\Portuguese.csproj.CopyComplete
+D:\Armen\ACA_C#_FILES\Homeworks\HelloWorldExtendable\Plugins-Libraries\Plugins-Libraries\Portuguese\obj\Debug\Portuguese.dll
+D:\Armen\ACA_C#_FILES\Homeworks\HelloWorldExtendable\Plugins-Libraries\Plugins-Libraries\Portuguese\obj\Debug\Portuguese.pdb

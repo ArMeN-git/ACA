@@ -1,0 +1,6 @@
+D:\Armen\ACA_C#_FILES\Homeworks\HelloWorldExtendable\Plugin\bin\Debug\Plugin.dll
+D:\Armen\ACA_C#_FILES\Homeworks\HelloWorldExtendable\Plugin\bin\Debug\Plugin.pdb
+D:\Armen\ACA_C#_FILES\Homeworks\HelloWorldExtendable\Plugin\obj\Debug\Plugin.csprojAssemblyReference.cache
+D:\Armen\ACA_C#_FILES\Homeworks\HelloWorldExtendable\Plugin\obj\Debug\Plugin.csproj.CoreCompileInputs.cache
+D:\Armen\ACA_C#_FILES\Homeworks\HelloWorldExtendable\Plugin\obj\Debug\Plugin.dll
+D:\Armen\ACA_C#_FILES\Homeworks\HelloWorldExtendable\Plugin\obj\Debug\Plugin.pdb

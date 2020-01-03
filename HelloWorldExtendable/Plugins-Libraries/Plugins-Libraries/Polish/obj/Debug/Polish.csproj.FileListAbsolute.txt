@@ -1,0 +1,9 @@
+D:\Armen\ACA_C#_FILES\Homeworks\HelloWorldExtendable\Plugins-Libraries\Plugins-Libraries\Polish\bin\Debug\Polish.dll
+D:\Armen\ACA_C#_FILES\Homeworks\HelloWorldExtendable\Plugins-Libraries\Plugins-Libraries\Polish\bin\Debug\Polish.pdb
+D:\Armen\ACA_C#_FILES\Homeworks\HelloWorldExtendable\Plugins-Libraries\Plugins-Libraries\Polish\bin\Debug\Plugin.dll
+D:\Armen\ACA_C#_FILES\Homeworks\HelloWorldExtendable\Plugins-Libraries\Plugins-Libraries\Polish\bin\Debug\Plugin.pdb
+D:\Armen\ACA_C#_FILES\Homeworks\HelloWorldExtendable\Plugins-Libraries\Plugins-Libraries\Polish\obj\Debug\Polish.csprojAssemblyReference.cache
+D:\Armen\ACA_C#_FILES\Homeworks\HelloWorldExtendable\Plugins-Libraries\Plugins-Libraries\Polish\obj\Debug\Polish.csproj.CoreCompileInputs.cache
+D:\Armen\ACA_C#_FILES\Homeworks\HelloWorldExtendable\Plugins-Libraries\Plugins-Libraries\Polish\obj\Debug\Polish.csproj.CopyComplete
+D:\Armen\ACA_C#_FILES\Homeworks\HelloWorldExtendable\Plugins-Libraries\Plugins-Libraries\Polish\obj\Debug\Polish.dll
+D:\Armen\ACA_C#_FILES\Homeworks\HelloWorldExtendable\Plugins-Libraries\Plugins-Libraries\Polish\obj\Debug\Polish.pdb

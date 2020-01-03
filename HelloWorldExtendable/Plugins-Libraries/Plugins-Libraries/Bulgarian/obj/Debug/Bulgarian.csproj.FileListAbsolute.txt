@@ -1,0 +1,9 @@
+D:\Armen\ACA_C#_FILES\Homeworks\HelloWorldExtendable\Plugins-Libraries\Plugins-Libraries\Bulgarian\bin\Debug\Bulgarian.dll
+D:\Armen\ACA_C#_FILES\Homeworks\HelloWorldExtendable\Plugins-Libraries\Plugins-Libraries\Bulgarian\bin\Debug\Bulgarian.pdb
+D:\Armen\ACA_C#_FILES\Homeworks\HelloWorldExtendable\Plugins-Libraries\Plugins-Libraries\Bulgarian\bin\Debug\Plugin.dll
+D:\Armen\ACA_C#_FILES\Homeworks\HelloWorldExtendable\Plugins-Libraries\Plugins-Libraries\Bulgarian\bin\Debug\Plugin.pdb
+D:\Armen\ACA_C#_FILES\Homeworks\HelloWorldExtendable\Plugins-Libraries\Plugins-Libraries\Bulgarian\obj\Debug\Bulgarian.csprojAssemblyReference.cache
+D:\Armen\ACA_C#_FILES\Homeworks\HelloWorldExtendable\Plugins-Libraries\Plugins-Libraries\Bulgarian\obj\Debug\Bulgarian.csproj.CoreCompileInputs.cache
+D:\Armen\ACA_C#_FILES\Homeworks\HelloWorldExtendable\Plugins-Libraries\Plugins-Libraries\Bulgarian\obj\Debug\Bulgarian.csproj.CopyComplete
+D:\Armen\ACA_C#_FILES\Homeworks\HelloWorldExtendable\Plugins-Libraries\Plugins-Libraries\Bulgarian\obj\Debug\Bulgarian.dll
+D:\Armen\ACA_C#_FILES\Homeworks\HelloWorldExtendable\Plugins-Libraries\Plugins-Libraries\Bulgarian\obj\Debug\Bulgarian.pdb
