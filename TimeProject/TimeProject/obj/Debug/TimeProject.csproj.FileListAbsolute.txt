@@ -1,0 +1,7 @@
+D:\Armen\ACA_C#_FILES\Homeworks\TimeProject\TimeProject\bin\Debug\TimeProject.exe.config
+D:\Armen\ACA_C#_FILES\Homeworks\TimeProject\TimeProject\bin\Debug\TimeProject.exe
+D:\Armen\ACA_C#_FILES\Homeworks\TimeProject\TimeProject\bin\Debug\TimeProject.pdb
+D:\Armen\ACA_C#_FILES\Homeworks\TimeProject\TimeProject\obj\Debug\TimeProject.csprojAssemblyReference.cache
+D:\Armen\ACA_C#_FILES\Homeworks\TimeProject\TimeProject\obj\Debug\TimeProject.csproj.CoreCompileInputs.cache
+D:\Armen\ACA_C#_FILES\Homeworks\TimeProject\TimeProject\obj\Debug\TimeProject.exe
+D:\Armen\ACA_C#_FILES\Homeworks\TimeProject\TimeProject\obj\Debug\TimeProject.pdb
