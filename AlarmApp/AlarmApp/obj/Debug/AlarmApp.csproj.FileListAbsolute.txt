@@ -1,0 +1,7 @@
+D:\Armen\ACA_C#_FILES\Homeworks\AlarmApp\AlarmApp\bin\Debug\AlarmApp.exe.config
+D:\Armen\ACA_C#_FILES\Homeworks\AlarmApp\AlarmApp\bin\Debug\AlarmApp.exe
+D:\Armen\ACA_C#_FILES\Homeworks\AlarmApp\AlarmApp\bin\Debug\AlarmApp.pdb
+D:\Armen\ACA_C#_FILES\Homeworks\AlarmApp\AlarmApp\obj\Debug\AlarmApp.csprojAssemblyReference.cache
+D:\Armen\ACA_C#_FILES\Homeworks\AlarmApp\AlarmApp\obj\Debug\AlarmApp.csproj.CoreCompileInputs.cache
+D:\Armen\ACA_C#_FILES\Homeworks\AlarmApp\AlarmApp\obj\Debug\AlarmApp.exe
+D:\Armen\ACA_C#_FILES\Homeworks\AlarmApp\AlarmApp\obj\Debug\AlarmApp.pdb
