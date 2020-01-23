@@ -17,7 +17,9 @@ namespace AlarmApp
             Console.Write("Minutes : ");
             int minutes = int.Parse(Console.ReadLine());
             Alarm a1 = new Alarm(hours, minutes);
-            //Console.ReadKey();
+            Timer t = new Timer(a1.Signal, null, 0, 1000);
+            if(Console.ReadKey().Key == ConsoleKey.Escape)
+                Console.WriteLine("Canceled");
         }
     }
 }

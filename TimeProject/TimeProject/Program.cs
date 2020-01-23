@@ -10,38 +10,54 @@ namespace TimeProject
     {
         static void Main(string[] args)
         {
-            Time t1 = new Time(14, 5);
-            Time t2 = new Time(0, 20);
+            Time t1;
+            Time t2;
+            try
+            {
+                t1 = new Time(22, 55);
+                t2 = new Time(12, 20);
+            }
+            catch(ArgumentException e)
+            {
+                Console.WriteLine(e.Message);
+                return;
+            }
 
-            Time t3 = t1 + 670;
-            Console.WriteLine(t3.Hours);
-            Console.WriteLine(t3.Minutes);
-            Console.WriteLine(t3.MinutesSinceMidnight);
-            Console.WriteLine();
+            Time sum = t1 + t2;
+            Console.WriteLine(sum);
 
-            Time t4 = t2 - 25;
-            Console.WriteLine(t4.Hours);
-            Console.WriteLine(t4.Minutes);
-            Console.WriteLine(t4.MinutesSinceMidnight);
-            Console.WriteLine();
+            Time sub = t1 - t2;
+            Console.WriteLine(sub);
 
-            Time t5 = 1850;
-            Console.WriteLine(t5.Hours);
-            Console.WriteLine(t5.Minutes);
-            Console.WriteLine(t5.MinutesSinceMidnight);
-            Console.WriteLine();
+            //Time t3 = t1 + 670;
+            //Console.WriteLine(t3.Hours);
+            //Console.WriteLine(t3.Minutes);
+            //Console.WriteLine(t3.MinutesSinceMidnight);
+            //Console.WriteLine();
 
-            int t6 = (int)new Time(21, 45);
-            Console.WriteLine(t6);
+            //Time t4 = t2 - 25;
+            //Console.WriteLine(t4.Hours);
+            //Console.WriteLine(t4.Minutes);
+            //Console.WriteLine(t4.MinutesSinceMidnight);
+            //Console.WriteLine();
 
-            Console.WriteLine(Time.Noon);
+            //Time t5 = 1850;
+            //Console.WriteLine(t5.Hours);
+            //Console.WriteLine(t5.Minutes);
+            //Console.WriteLine(t5.MinutesSinceMidnight);
+            //Console.WriteLine();
 
-            Console.WriteLine();
-            Console.WriteLine(t1);
-            Console.WriteLine(t2);
-            Console.WriteLine(t3);
-            Console.WriteLine(t4);
-            Console.WriteLine(t5);
+            //int t6 = (int)new Time(21, 45);
+            //Console.WriteLine(t6);
+
+            //Console.WriteLine(Time.Noon);
+
+            //Console.WriteLine();
+            //Console.WriteLine(t1);
+            //Console.WriteLine(t2);
+            //Console.WriteLine(t3);
+            //Console.WriteLine(t4);
+            //Console.WriteLine(t5);
             Console.ReadKey();
         }
     }

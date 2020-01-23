@@ -15,27 +15,17 @@ namespace AlarmApp
         {
             this.Hour = hour;
             this.Minute = minute;
-            Signal();
         }
 
-        private void Signal()
+        public void Signal(object obj)
         {
-            while (true)
+            if (DateTime.Now.Hour == this.Hour && DateTime.Now.Minute == this.Minute)
             {
-                if (DateTime.Now.Hour == this.Hour && DateTime.Now.Minute == this.Minute)
-                {
-                    while (true)
-                    {
-                        Console.Write($"{this.Hour} : {this.Minute}  SIGNAL!!!");
-                        Console.Write("  Please input OFF to switch off : ");
-                        Console.Beep();
-                        Console.Beep();
-                        Console.Beep();
-                        if (Console.ReadLine() == "OFF")
-                            break;
-                    }
-                    break;
-                }
+                Console.Write($"{this.Hour} : {this.Minute}  SIGNAL!!!");
+                Console.WriteLine("  Press Escape key to switch off : ");
+                Console.Beep();
+                Console.Beep();
+                Console.Beep();
             }
         }
     }
